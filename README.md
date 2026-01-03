@@ -38,7 +38,7 @@ and track student attendance in real time.
 ### Backend
 
 ```bash
-cd backend
+cd attendance-backend
 npm install
 npm run dev
 ```
@@ -46,7 +46,7 @@ npm run dev
 ### Frontend
 
 ```bash
-cd frontend
+cd attendance-frontend
 npm install
 npm run dev
 ```
